@@ -55,6 +55,26 @@ This is a state-of-the-art, completely custom-built AI system that provides adva
   - Validation scores
   - Model size tracking
 
+## Screenshots
+### Main
+![Main](https://github.com/user-attachments/assets/af7e93f6-61a8-41b1-8c20-a09e3e6e959c)
+
+### Signup
+![Signup](https://github.com/user-attachments/assets/bcf23851-d0ac-41a5-8f7f-8be3a71ebf31)
+
+### Login
+![Login](https://github.com/user-attachments/assets/1e65e272-c3c0-45b5-9c91-f5dca6418c5b)
+
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/b38b4bcd-46b5-4181-bb29-0208fdf601d8)
+
+### AI_Generator
+![AI_Generator](https://github.com/user-attachments/assets/b1e173d2-3a3a-4264-8fd1-8dae1f36a555)
+
+### Roadmap
+![Generated_Roadmap](https://github.com/user-attachments/assets/6f0aeade-898d-4d5e-8cfb-f7d7215d88bf)
+
+
 ## 🏗️ Architecture
 
 ### Core Components
