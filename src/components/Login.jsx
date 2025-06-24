@@ -98,7 +98,8 @@ function Login() {
                         <button type="submit">Login</button>
                     </center>
                     <p className="register-link">
-                    </p>
+            Don't have an account? <Link to="/register">Register here</Link>
+          </p>
                 </form>
             </div>
         </div>
